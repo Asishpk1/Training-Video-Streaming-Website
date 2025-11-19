@@ -54,3 +54,11 @@
     width: 280px;
   }
 }
+
+.brandLogos{
+  transition: all 0.4s ease-in-out;
+}
+.brandLogos:hover{
+  color: rgb(70, 89, 160) !important;
+    transform: rotateY(360deg)
+}
