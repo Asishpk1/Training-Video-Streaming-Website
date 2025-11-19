@@ -31,7 +31,7 @@
 }
 
 .video-card-img:hover{
-  transform: scale(1.5);
+  transform: scale(1.6);
   filter: brightness(0.7);
   
 }
