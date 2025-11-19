@@ -57,12 +57,12 @@ const Footer = () => {
             {/* Social Media Section */}
             <div className='d-flex'>
               <div className='d-flex justify-content-between mt-3 w-100'>
-                <Link to={'https://www.instagram.com/human_being___/'}><i className="fa-brands fa-facebook fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
-                <Link to={'https://www.instagram.com/human_being___/'}><i className="fa-brands fa-twitter fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
-                <Link to={'https://www.instagram.com/human_being___/'}><i className="fa-brands fa-instagram fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
+                <Link to={'https://www.instagram.com/asish.p_/'}><i className="fa-brands fa-facebook fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
+                <Link to={'https://www.instagram.com/asish.p_/'}><i className="fa-brands fa-twitter fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
+                <Link to={'https://www.instagram.com/asish.p_/'}><i className="fa-brands fa-instagram fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
                 <Link to={'https://www.linkedin.com/in/asish-krishna-p/'}><i className="fa-brands fa-linkedin fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
                 <Link to={'https://github.com/Asishpk1'}><i className="fa-brands fa-github fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
-                <Link to={'https://www.instagram.com/human_being___/'}><i className="fa-solid fa-phone fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
+                <Link to={'https://www.instagram.com/asish.p_/'}><i className="fa-solid fa-phone fa-lg brandLogos" style={{color:'rgba(131, 144, 186, 1)'}}></i></Link>
             </div>
             </div>
         </div>
